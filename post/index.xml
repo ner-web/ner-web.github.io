@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 李婷的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 06 Sep 2019 12:12:52 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2019 13:12:52 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>如何使用 GitHub Pages 预览 HTML</title>
+      <link>http://localhost:1313/post/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-github-pages-%E9%A2%84%E8%A7%88-html-copy/</link>
+      <pubDate>Sat, 07 Sep 2019 13:12:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-github-pages-%E9%A2%84%E8%A7%88-html-copy/</guid>
+      <description>博客生成后怎么预览呢 来看看吧 GitHub Pages可以预览HTML 建个人GitHub仓库 创建一个 github repo 仓库名可以为“GitHub的用户名.github.</description>
+    </item>
     
     <item>
       <title>如何用 hugo 搭建个人博客</title>
